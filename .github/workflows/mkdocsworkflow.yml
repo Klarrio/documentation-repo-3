@@ -3,7 +3,7 @@ name: makedocs
 # Controls when the workflow will run
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "point-to-main" ]
 
 
 jobs:
